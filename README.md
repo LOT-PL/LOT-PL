@@ -8,10 +8,12 @@
 
 ## Prog Languages I either Know or know a bit
 
-- JS (Know)
+- JS(Know a bit)
 - CSS(Know)
 - HTML(Know)
 - C (Know a bit)
+- NodeJS (Know a bit) 
+
 
 ## Some cool Metrics or stats 
 
