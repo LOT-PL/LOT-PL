@@ -1,5 +1,6 @@
 # Hi I'm LOT 
 
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 ## Stuff I like
 - F1
 - 3DS Jailbreaking
@@ -18,4 +19,4 @@
 
 ![Metrics](https://metrics.lecoq.io/LOT-PL?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LOT-PL&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=LOT-PL&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
