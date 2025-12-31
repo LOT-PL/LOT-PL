@@ -1,4 +1,4 @@
-# Hi I'm LOT 
+<img width="430" height="118" alt="ascii-art-text-transparent" src="https://github.com/user-attachments/assets/7b139939-0d03-4608-9066-144ad512eb68" />
 
 ## Stuff I like
 - F1
