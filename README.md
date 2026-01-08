@@ -17,4 +17,4 @@
 
 ## Some cool Metrics or stats 
 
-![Metrics](https://metrics.lecoq.io/LOT-PL?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+[![LOT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOT-PL)](https://github.com/anuraghazra/github-readme-stats)
