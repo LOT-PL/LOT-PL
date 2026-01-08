@@ -14,7 +14,4 @@
 - C (Know a bit)
 - NodeJS (Know a bit) 
 
-
-## Some cool Metrics or stats 
-
-[![LOT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOT-PL)](https://github.com/anuraghazra/github-readme-stats)
+[Personal Portfollio](https://lot-pl.github.io/)
